@@ -81,7 +81,14 @@ El archivo original se encuentra en:
 
 ## Hallazgos
 
-<!-- Aquí se agregarán los hallazgos finales del análisis -->
+## Hallazgos
+
+- La satisfacción con la vida es generalmente alta en la población adulta analizada, con un promedio de 8,14 sobre 10.
+- Se observa una leve disminución de la satisfacción a medida que aumenta la edad.
+- La relación entre edad y satisfacción es negativa, pero muy débil (`r ≈ -0,064`), por lo que la edad por sí sola explica poco las diferencias observadas.
+- Estos resultados muestran una asociación, pero no implican causalidad.
+
+Los cálculos, tablas y visualizaciones completas se encuentran en el notebook del proyecto.
 
 ---
 
